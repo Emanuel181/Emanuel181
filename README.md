@@ -6,5 +6,7 @@
 
 I've worked with C/C++, Python, HTML & CSS.
 
-```proactive and eager to learn ```  ``` open to teamwork ```  ``` involvement ```    
+```proactive and eager to learn ```
+``` open to teamwork ```
+``` involvement ```    
 
