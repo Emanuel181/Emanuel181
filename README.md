@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rusu Emanuel
+### Hi there 👋, I'm Rusu Emanuel - Computer Science Student
 
 - 🔭 I’m currently working on a personal website
 - 🌱 I’m currently learning WebDevelopment
