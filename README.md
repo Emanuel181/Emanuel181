@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rusu Emanuel - Computer Science Student
 
-- 🔭 I’m currently working on a personal website
-- 🌱 I’m currently learning WebDevelopment
-- 📫 How to reach me: https://www.linkedin.com/in/emanuel1/
+- 🔭 I’m currently working on a personal website.
+- 🌱 I’m currently learning WebDevelopment.
+- 📫 How to reach me: https://www.linkedin.com/in/emanuel1/.
 
 I've worked with ```C/C++```, ```Python```, ```HTML & CSS```.
 
