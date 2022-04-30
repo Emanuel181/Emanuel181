@@ -11,5 +11,5 @@ I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 ``` involvement ```  
 
 
-[![Rusu Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Rusu Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel181)](https://github.com/Emanuel181/github-readme-stats)
 
