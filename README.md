@@ -11,5 +11,5 @@ I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 ``` involvement ```  
 
 
-https://github-readme-stats.vercel.app/api?username=Emanuel181&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs,issues
+[![Rusu Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
