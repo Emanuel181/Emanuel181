@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning WebDevelopment.
 - 📫 How to reach me: https://www.linkedin.com/in/emanuel1/.
 
-I've worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
+I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 
 ```proactive and eager to learn```<br />
 ``` open to teamwork ```<br />
