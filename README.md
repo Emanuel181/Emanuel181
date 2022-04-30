@@ -11,6 +11,8 @@ I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 ``` involvement ```  
 
 
+<hr>
+
 ![Rusu Emanuel Github stats](https://github-readme-stats.vercel.app/api?username=Emanuel181&theme=nord&show_icons=true&count_private=true&hide=stars,prs,issues)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel181&theme=nord)
