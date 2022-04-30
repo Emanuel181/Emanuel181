@@ -17,5 +17,5 @@ I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 
 ## 👨‍💻  Programming languages and technologies used
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel181&theme=nord)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel181&theme=nord&layout=compact)
 
