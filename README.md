@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Rusu Emanuel - Computer Science Student
 
+![](https://komarev.com/ghpvc/?username=Emanuel181&color=blue)
+
 - 🔭 I’m currently working on a personal website.
 - 🌱 I’m currently learning WebDevelopment.
 - 📫 How to reach me: https://www.linkedin.com/in/emanuel1/.
