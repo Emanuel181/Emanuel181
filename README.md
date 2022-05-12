@@ -23,7 +23,7 @@ I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 
 <br>
 
-## 👨‍💻  GitHub Skyline
+## <img height="52" width="52" src = "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"> GitHub Skyline 
 
 https://skyline.github.com/emanuel181/2021
 
