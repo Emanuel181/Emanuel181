@@ -10,8 +10,11 @@ I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
 
 ```proactive and eager to learn```<br />
 ``` open to teamwork ```<br />
-``` involvement ```  
+``` involvement ``` 
 
+
+## 🏆  GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/Emanuel181ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈  GitHub Stats
 
