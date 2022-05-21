@@ -1,5 +1,5 @@
   
-# Hi there 👋, I'm Rusu Emanuel - Computer Science Student
+   # 👋 I'm Rusu Emanuel - An enthusiastic Computer Science Student
 
 <div align="center">
 
@@ -7,6 +7,7 @@
 
 🔭 I’m currently working on a personal website. <br>
 🌱 I’m currently learning WebDevelopment. <br>
+🌐 You can visit [my Website](emanuel161.github.io/website/). <br>
 📫 How to reach me: https://www.linkedin.com/in/emanuel1/.
 
 I have worked with ```C/C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
