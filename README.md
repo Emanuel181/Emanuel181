@@ -10,7 +10,7 @@
 🌐 You can visit [my Website](https://emanuel161.github.io/WebSite/). <br>
 📫 How to reach me: https://www.linkedin.com/in/emanuel1/.
 
-I have worked with ```C```, ```C++```, ```Python```, ```HTML & CSS```, ```JavaScript```
+I have worked with ```C```, ```C++```, ```Python```, ```HTML```, ```CSS```, ```JavaScript```
 
 ```proactive and eager to learn```<br />
 ``` open to teamwork ```<br />
