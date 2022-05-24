@@ -24,7 +24,7 @@ I have worked with ```C```, ```C++```, ```Python```, ```HTML```, ```CSS```, ```J
   <br>
 
 ## 📈  GitHub Stats
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emanuel181&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 ![Rusu Emanuel Github stats](https://github-readme-stats.vercel.app/api?username=Emanuel181&theme=nord&show_icons=true&count_private=true&hide=stars,prs,issues)
 
   <br>
