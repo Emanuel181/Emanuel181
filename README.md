@@ -3,11 +3,16 @@
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100"/> <br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/> <br> <br>
 
-
-![](https://komarev.com/ghpvc/?username=Emanuel181&color=blue)
+![](https://komarev.com/ghpvc/?username=Emanuel181&color=blue) <br>
+  
+<div id="badges">   
+  <a href="https://www.linkedin.com/in/rusu-emanuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+  
+  <br>
 
 🔭 I’m currently working on a personal website. <br>
 🌱 I’m currently learning WebDevelopment. <br>
@@ -19,7 +24,7 @@ I have worked with ```C```, ```C++```, ```Python```, ```HTML```, ```CSS```, ```J
 ```proactive and eager to learn```<br />
 ``` open to teamwork ```<br />
 ``` involvement ``` 
-
+  
 <br>
   
 ## 🏆  GitHub Trophies
