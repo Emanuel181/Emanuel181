@@ -3,9 +3,9 @@
 
 <div align="center">
   
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100"/> <br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+
 
 ![](https://komarev.com/ghpvc/?username=Emanuel181&color=blue)
 
