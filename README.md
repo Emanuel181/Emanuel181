@@ -2,6 +2,10 @@
    # 👋 I'm Rusu Emanuel - An enthusiastic Computer Science Student
 
 <div align="center">
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=Emanuel181&color=blue)
 
