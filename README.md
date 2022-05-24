@@ -6,24 +6,35 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/> <br> <br>
 
 ![](https://komarev.com/ghpvc/?username=Emanuel181&color=blue) <br>
-  
-<div id="badges">   
-  <a href="https://www.linkedin.com/in/rusu-emanuel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-  
-  <br>
+ 
+<br>
 
 🔭 I’m currently working on a personal website. <br>
 🌱 I’m currently learning WebDevelopment. <br>
 🌐 You can visit [my Website](https://emanuel161.github.io/WebSite/). <br>
-📫 How to reach me: https://www.linkedin.com/in/emanuel1/.
+📫 How to reach me: 
+  <div id="badges">   
+  <a href="https://www.linkedin.com/in/rusu-emanuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div> <br> <br>
+<hr>
 
-I have worked with ```C```, ```C++```, ```Python```, ```HTML```, ```CSS```, ```JavaScript```
+### :hammer_and_wrench: I have worked with :
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+
+</div> <br> <hr>
 
 ```proactive and eager to learn```<br />
 ``` open to teamwork ```<br />
 ``` involvement ``` 
+    
+<hr>
   
 <br>
   
