@@ -9,14 +9,27 @@
  
 <br>
 
-🔭 I’m currently working on a personal website. <br>
-🌱 I’m currently learning WebDevelopment. <br>
-🌐 You can visit [my Website](https://emanuel161.github.io/WebSite/). <br>
-📫 How to reach me: 
-  <div id="badges">   
-  <a href="https://www.linkedin.com/in/rusu-emanuel/">
+🔭 I’m currently working on a personal website. <br> <br>
+🌱 I’m currently learning WebDevelopment. <br> <br>
+🌐 You can visit [my Website](https://emanuel161.github.io/WebSite/). <br> <br>
+<div id="Linkedin-Badge">
+  📫How to reach me:   
+    <a href="https://www.linkedin.com/in/rusu-emanuel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+  
+<br>
+
+<div id="DEV-Badge">
+I started a new blog account where I will write about different topics in Computer Science👨‍💻 <br>
+            such as data structures, pointers, algorithms, complexity analysis, my thoughts about learning programming,
+creating a portfolio, and things I encountered during high school and university😎. You can visit it here:    
+  <a href="https://dev.to/emanuel181">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Badge"/>
+    </a>
 </div> <br> <br>
+    
 <hr>
 
 ### :hammer_and_wrench: I have worked with :
