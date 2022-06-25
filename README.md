@@ -72,5 +72,8 @@ creating a portfolio, and things I encountered during high school and university
 
 https://skyline.github.com/emanuel181/2021
   
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </div>
 
