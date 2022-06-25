@@ -72,9 +72,7 @@ creating a portfolio, and things I encountered during high school and university
 
 https://skyline.github.com/emanuel181/2021
 </div>
-<br>
-<br>
-<br>
+
 ## 📚Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Sieve of Eratosthenes](https://dev.to/emanuel181/sieve-of-eratosthenes-50hp)
