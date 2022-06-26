@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/Emanuel181">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div> <br> <br>
@@ -30,6 +30,8 @@
   </samp>
 </div>
 </details>
+  
+<br/>
 
 <details>
   <summary>📈 Activity Graph</summary>
@@ -38,6 +40,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rusu Emanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Emanuel181&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
+  <br/>
+  
 <details>
   <summary>🧮 About me</summary>
 <div>
@@ -80,6 +84,8 @@
 </div>
 </details>
 
+<br/>
+
 <details>
   <summary>👨‍🎓 Recent projects</summary>
 <div>
@@ -92,6 +98,8 @@
 ㅤcreating a portfolio, and things I encountered during high school and university😎. You can visit it here: https://dev.to/emanuel181
 <pre>
 </details>
+
+<br/>
 
 <details> 
     <summary>📚 Latest blog posts</summary>
@@ -107,6 +115,8 @@
 </div></pre>
 </details> 
 
+<br/>
+
 <details>
   <summary><img height="20" width="20" src = "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"> GitHub Skyline</summary>
 <div>
@@ -114,6 +124,8 @@
     <a align="center" href="https://skyline.github.com/emanuel181/2021" target="blank">GitHub Skyline</a>
 </div>
 </details>
+
+<br/>
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -133,6 +145,8 @@
      <br>
   </div>    
 </details>
+
+<br/>
 
 <details> 
   <summary>🏆 GitHub Trophies</summary>
