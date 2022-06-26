@@ -165,3 +165,5 @@
 <br>
   
 ![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)
+<br/> <br/>
+![](https://dcbadge.vercel.app/api/shield/512552441720340480)
