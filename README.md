@@ -94,25 +94,11 @@
 </details>
 
 <details>
-  <summary>📚Latest Blog posts</summary>
-<div>
-<h2 align="center">📚Latest Blog posts </h2>
-</div>
-<!-- BLOG-POST-LIST:START -->
-- [Sieve of Eratosthenes](https://dev.to/emanuel181/sieve-of-eratosthenes-50hp)
-- [Algorithms for primes number - introduction](https://dev.to/emanuel181/primality-test-introduction-439c)
-- [Simple and interesting way to convert from base 10 using recursion](https://dev.to/emanuel181/simple-and-interesting-way-to-convert-from-base-10-using-recursion-583n)
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
   <summary><img height="20" width="20" src = "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"> GitHub Skyline</summary>
 <div>
 <h2 align="center"><img height="45" width="45" src = "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">GitHub Skyline</h2>
     <a align="center" href="https://skyline.github.com/emanuel181/2021" target="blank">GitHub Skyline</a>
 </div>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details> 
@@ -141,9 +127,13 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Emanuel181">
-          <img src="https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=onedark&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Followers" </a>
+          <img src="https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=onedark&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Followers"</img> </a>
         </p>
      <br>
   </div>    
 </details>
+Blogs
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 </div>
