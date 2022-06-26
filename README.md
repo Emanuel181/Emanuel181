@@ -134,5 +134,8 @@
 </details>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sieve of Eratosthenes](https://dev.to/emanuel181/sieve-of-eratosthenes-50hp)
+- [Algorithms for primes number - introduction](https://dev.to/emanuel181/primality-test-introduction-439c)
+- [Simple and interesting way to convert from base 10 using recursion](https://dev.to/emanuel181/simple-and-interesting-way-to-convert-from-base-10-using-recursion-583n)
 <!-- BLOG-POST-LIST:END -->
 </div>
