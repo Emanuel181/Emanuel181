@@ -1,13 +1,13 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rusu Emanuel</h1>
-<h4 align="center">An enthusiastic Computer Science Student</h4>
+<h4 align="center">An enthusiastic Computer Science Student</h4><br>
 </div>
 
 <div align="center">
   <a href="https://github.com/Emanuel181">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div> <br> <br>
+</div> <br/> <br/>
 
 <div align="center">
 
@@ -161,3 +161,7 @@
   </div>    
 </details>
 </div>
+  
+<br>
+  
+![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)
