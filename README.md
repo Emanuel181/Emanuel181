@@ -1,5 +1,4 @@
 <div align="center">
-<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/banner.PNG"/>
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rusu Emanuel</h1>
 <h4 align="center">An enthusiastic Computer Science Student</h4>
 </div>
@@ -15,6 +14,7 @@
 
 <details>
   <summary>☎️ Contact me</summary>
+  
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -28,7 +28,8 @@
          alt="DEV Badge Rusu Emanuel" height="30"/></a>
       <a href="https://mailto:rusuemanuel6@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Rusu Emanuel email" height="30"/></a>
+         alt="Rusu Emanuel email" height="30"/></a><br>
+         <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/banner.PNG"/>
   </samp>
 </div>
 </details>
