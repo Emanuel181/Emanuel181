@@ -4,7 +4,7 @@ const { EOL } = require('os');
 const { format } = require('prettier');
 const { stripIndent } = require('common-tags');
 
-const baseURL = 'https://k9n.dev';
+const baseURL = 'https://dev.to/emanuel191';
 const maxDisplay = 5;
 
 get(`${baseURL}/assets/scully-routes.json`, (res) => {
