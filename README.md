@@ -167,8 +167,7 @@
     <h2 align="center">🏆 GitHub Trophies</h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Emanuel181">
-          <img src="https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=onedark&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Followers"</img> </a>
+          <img src="https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=onedark"</img>
         </p>
      <br>
   </div>    
