@@ -184,3 +184,7 @@
   
 <!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
 <br/> <br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=68&section=footer"/>
+</p>
