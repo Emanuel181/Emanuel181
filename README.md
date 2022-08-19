@@ -1,6 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rusu Emanuel</h1>
-<h4 align="center">An enthusiastic Computer Science Student</h4>
+<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/Talk%20to%20us.gif?raw=true" />
 </div>
 
 <div align="center">
