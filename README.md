@@ -1,8 +1,4 @@
 <div align="center">
-<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/Talk%20to%20us.gif?raw=true" />
-</div>
-
-<div align="center">
   <a href="https://github.com/Emanuel181">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
 </div>
@@ -38,6 +34,7 @@
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
+  <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/Talk%20to%20us.gif?raw=true" />
   <h2 align="center"> My current activity </h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Emanuel181&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
@@ -196,6 +193,8 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
   
 <!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
 <br/> <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=68&section=footer"/>
