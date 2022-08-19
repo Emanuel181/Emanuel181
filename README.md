@@ -175,10 +175,12 @@
   </div>    
 </details>
 </div>
-
 <br>
-  
-![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)
-<br/> <br/>
-![](https://dcbadge.vercel.app/api/shield/512552441720340480)
+<br>
 
+<b>Open source projects I have contributed to:<b><br><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emanuel181&repo=DSA&theme=dracula)](https://github.com/Emanuel181/DSA)
+
+  
+<!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
+<br/> <br/>
