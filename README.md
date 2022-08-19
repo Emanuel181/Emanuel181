@@ -17,7 +17,7 @@
   
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">😎 You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/rusu-emanuel/" target="blank"><img align="center"
@@ -28,7 +28,7 @@
          alt="DEV Badge Rusu Emanuel" height="30"/></a>
       <a href="https://mailto:rusuemanuel6@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Rusu Emanuel email" height="30"/></a><br>
+         alt="Rusu Emanuel email" height="30"/></a><br/><br/><br/>
          <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/banner.PNG"/>
   </samp>
 </div>
@@ -39,7 +39,7 @@
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="center"> My current activity </h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Emanuel181&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
