@@ -19,5 +19,4 @@ jobs:
       with:
        commit_message: Save Generated Blog Posts
        skip_checkout: true
-       show_last_updated_date: false
      
