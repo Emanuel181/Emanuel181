@@ -1,13 +1,14 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rusu Emanuel</h1>
-<h4 align="center">An enthusiastic Computer Science Student</h4><br>
+<h4 align="center">An enthusiastic Computer Science Student</h4>
 </div>
 
 <div align="center">
   <a href="https://github.com/Emanuel181">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> <br/> <br/>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -46,6 +47,10 @@
   <summary>🧮 About me</summary>
 <div>
   <h2 align="center">🧮 About me</h2>
+  <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+  <br/>
+  <br/>
  <pre>
 » 𝗜𝘁 𝗮𝗹𝗹 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝘄𝗵𝗲𝗻 𝗜 𝗵𝗲𝗮𝗿𝗱, "𝗜𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗷𝗼𝗯 𝗼𝗳 𝘁𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲." Everyone around me said that. So I decided to
 ㅤfollow the computer science path👨‍💻. When I was in high school and ran my first "Hello World" program, 
@@ -62,8 +67,8 @@
 ㅤahead. I am passionate about low-level concepts. I am constantly trying to enhance my current skills and 
 ㅤdevelop new ones. I am ready to face upcoming challenges and give my utmost effort in every project I 
 ㅤam part of. <br/> <br/>
-» 𝗠𝘆 𝗽𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲🖥️ working as an 𝗮𝗽𝗽𝗿𝗲𝗻𝘁𝗶𝗰𝗲 for 𝗔𝗹𝗹𝗲𝗻𝗴𝗿𝗮 𝗢𝗿𝗮𝗱𝗲𝗮, a company that produces 
-ㅤultrasonic sensors, gave me some relevant experience. <br/> <br/>
+» 𝗠𝘆 𝗽𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲🖥️ working for 𝐍𝐨𝐤𝐢𝐚 𝐓𝐢𝐦𝐢ș𝐨𝐚𝐫𝐚 and 𝗔𝗹𝗹𝗲𝗻𝗴𝗿𝗮 𝗢𝗿𝗮𝗱𝗲𝗮, a company that 
+ㅤproduces ultrasonic sensors, gave me some relevant experience.<br/> <br/>
 
 » 𝗜 𝗮𝗺 𝗽𝗿𝗼𝘂𝗱 𝗼𝗳 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘂𝗽 𝘁𝗼 𝗻𝗼𝘄🖥️, such as:
 ㅤ• Created a blog where I discuss various computer science topics. 
@@ -71,6 +76,9 @@
 ㅤ• Simulation for a tourism application.
 ㅤ• A sorting algorithm visualizer.
 ㅤ• Maintaining a 𝐆𝐢𝐭𝐇𝐮𝐛 account with projects.
+ㅤ• Open source project contributor
+
+» 𝐅𝐚𝐦𝐢𝐥𝐢𝐚𝐫 𝐰𝐢𝐭𝐡🖥️: C, C++, Python, OOP, HTML, CSS
 
 » 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥𝐥𝐲 𝐈'𝐦 𝐚 𝐡𝐮𝐠𝐞 𝐟𝐚𝐧 𝐨𝐟 𝐯𝐨𝐥𝐥𝐞𝐲𝐛𝐚𝐥𝐥🏐, a sport that helped me develop my 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 and 
 ㅤ𝐜𝐨𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧 skills. 𝐈 𝐥𝐞𝐚𝐫𝐧𝐞𝐝 that I needed to be flexible and respect people. I found out that nothing 
@@ -162,9 +170,10 @@
   </div>    
 </details>
 </div>
-  
+
 <br>
   
 ![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)
 <br/> <br/>
 ![](https://dcbadge.vercel.app/api/shield/512552441720340480)
+
