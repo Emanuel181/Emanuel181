@@ -48,7 +48,8 @@
   <summary>🧮 About me</summary>
 <div>
   <h2 align="center">🧮 About me</h2>
-  <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img src="https://github.com/Emanuel181/Emanuel181/blob/main/hellocoders.gif" alt="Hello Coders" width="70%"/> <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Emanuel181" alt="CoDiNg RocKs"  width="60%"/><br> 
   
   <br/>
   <br/>
@@ -114,7 +115,7 @@
     <summary>📚 Latest blog posts</summary>
 <div>
 <h2 align="center">📚 Latest blog posts</h2>
-<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/blog%20photo.png?raw=true" width="500" height="320" /><br/><br/><pre>
+<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/code.gif?raw=true" width="500" height="320" /><br/><br/><pre>
 
 <!-- BLOG-POST-LIST:START -->
 - [Binary search trees🌳](https://dev.to/emanuel191/binary-search-trees-51e3)
