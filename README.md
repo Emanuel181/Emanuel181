@@ -1,4 +1,5 @@
 <div align="center">
+<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/banner.PNG"/>
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Rusu Emanuel</h1>
 <h4 align="center">An enthusiastic Computer Science Student</h4>
 </div>
