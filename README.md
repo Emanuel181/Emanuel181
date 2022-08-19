@@ -112,7 +112,8 @@
 <details> 
     <summary>📚 Latest blog posts</summary>
 <div>
-<h2 align="center">📚 Latest blog posts</h2><pre>
+<h2 align="center">📚 Latest blog posts</h2>
+<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/blog%20photo.png?raw=true" width="500" height="320" /><br/><br/><pre>
 
 <!-- BLOG-POST-LIST:START -->
 - [Binary search trees🌳](https://dev.to/emanuel191/binary-search-trees-51e3)
