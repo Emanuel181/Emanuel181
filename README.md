@@ -155,6 +155,8 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel181&theme=nord&hide_border=true" />
           </a>
        </p>
+       <img src="https://metrics.lecoq.io/Emanuel181?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FLos_Angeles"</img>
+
 
   </div>    
 </details>
