@@ -118,12 +118,8 @@
 <h2 align="center">📚 Latest blog posts</h2>
 <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/code.gif?raw=true" width="500" height="320" /><br/><br/><pre>
 
-<!-- BLOG-POST-LIST:START -->
-- [Binary search trees🌳](https://dev.to/emanuel191/binary-search-trees-51e3)
-- [Sieve of Eratosthenes](https://dev.to/emanuel191/sieve-of-eratosthenes-50hp)
-- [Algorithms for primes number - introduction](https://dev.to/emanuel191/primality-test-introduction-439c)
-- [Simple and interesting way to convert from base 10 using recursion](https://dev.to/emanuel191/simple-and-interesting-way-to-convert-from-base-10-using-recursion-583n)
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 </div></pre>
 </details> 
