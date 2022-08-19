@@ -107,9 +107,10 @@
 <h2 align="center">📚 Latest blog posts</h2><pre>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sieve of Eratosthenes](https://dev.to/emanuel181/sieve-of-eratosthenes-50hp)
-- [Algorithms for primes number - introduction](https://dev.to/emanuel181/primality-test-introduction-439c)
-- [Simple and interesting way to convert from base 10 using recursion](https://dev.to/emanuel181/simple-and-interesting-way-to-convert-from-base-10-using-recursion-583n)
+- [Binary search trees🌳](https://dev.to/emanuel191/binary-search-trees-51e3)
+- [Sieve of Eratosthenes](https://dev.to/emanuel191/sieve-of-eratosthenes-50hp)
+- [Algorithms for primes number - introduction](https://dev.to/emanuel191/primality-test-introduction-439c)
+- [Simple and interesting way to convert from base 10 using recursion](https://dev.to/emanuel191/simple-and-interesting-way-to-convert-from-base-10-using-recursion-583n)
 <!-- BLOG-POST-LIST:END -->
 
 </div></pre>
