@@ -119,6 +119,21 @@
 <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/code.gif?raw=true" width="500" height="320" /><br/><br/><pre>
 
 <!-- blog-post-list:start -->
+## DEV Community\: Rusu Emanuel
+
+The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
+
+[Read more](https://dev.to/emanuel191)
+> Last updated: Friday, August 19, 2022 at 9:58:43 PM
+
+> Showing 4 of 4 posts.
+
+[![Binary search trees🌳](https://raw.githubusercontent.com/Emanuel181/Emanuel181/main/blog-post-list-output/DEV_Community__Rusu_Emanuel/Binary_search_trees🌳.svg)](https://dev.to/emanuel191/binary-search-trees-51e3)
+[![Sieve of Eratosthenes](https://raw.githubusercontent.com/Emanuel181/Emanuel181/main/blog-post-list-output/DEV_Community__Rusu_Emanuel/Sieve_of_Eratosthenes.svg)](https://dev.to/emanuel191/sieve-of-eratosthenes-50hp)
+[![Algorithms for primes number - introduction](https://raw.githubusercontent.com/Emanuel181/Emanuel181/main/blog-post-list-output/DEV_Community__Rusu_Emanuel/Algorithms_for_primes_number_-_introduction.svg)](https://dev.to/emanuel191/primality-test-introduction-439c)
+[![Simple and interesting way to convert from base 10 using recursion](https://raw.githubusercontent.com/Emanuel181/Emanuel181/main/blog-post-list-output/DEV_Community__Rusu_Emanuel/Simple_and_interesting_way_to_convert_from_base_10_using_recursion.svg)](https://dev.to/emanuel191/simple-and-interesting-way-to-convert-from-base-10-using-recursion-583n)
+
+
 <!-- blog-post-list:end -->
 
 
