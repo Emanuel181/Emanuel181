@@ -100,6 +100,7 @@
   <summary>👨‍🎓 Recent projects</summary>
 <div>
 <h2 align="center">👨‍🎓 Recent projects</h2>
+<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/techstack.gif?raw=true" width="360px" /> <br/><br/>
 </div>
   <pre>
 » 🌐 You can visit my Website: https://emanuel161.github.io/WebSite/. <br/> <br/>
