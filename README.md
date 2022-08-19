@@ -155,7 +155,7 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel181&theme=nord&hide_border=true" />
           </a>
        </p>
-     <br>
+
   </div>    
 </details>
 
