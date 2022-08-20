@@ -232,15 +232,6 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
           <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg"/>
   </div>     
 </details>
-
-<details>
-  <summary>Work experience</summary>
-  <div>
-    <h2 align="center">Work experience</h2>
-      <br/>
-
-  </div>     
-</details>
 <br>
 
 <br>
