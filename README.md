@@ -2,7 +2,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&background=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8BHello!+I'm+Rusu+Emanuel.+Nice+to+meet+you!%F0%9F%98%8E;I+am+a+second+year+computer+science+student+in+Timișoara%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Welcome+to+my+profile!"></img>
   <a href="https://github.com/Emanuel181">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
+  
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="500" height="auto" />
 </div>
+
+<br/>
+
+<br/>
 
 <br/>
 
@@ -21,10 +27,7 @@
          alt="Rusu Emanuel linkedin" height="30"/></a>
       <a href="https://dev.to/emanuel181" target="blank"><img img align="center"
          src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
-         alt="DEV Badge Rusu Emanuel" height="30"/></a>
-      <a href="https://mailto:rusuemanuel6@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Rusu Emanuel email" height="30"/></a><br/><br/><br/>
+         alt="DEV Badge Rusu Emanuel" height="30"/></a><br><br>
          <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/banner.PNG"/>
   </samp>
 </div>
@@ -111,9 +114,10 @@
 <br/>
 
 <details> 
-    <summary>📚 Latest blog posts</summary>
+    <summary>✍ Blog & Writing</summary>
 <div>
 <h2 align="center">📚 Latest blog posts</h2>
+<p>Apart from coding, I also maintain a blog. You can find my articles on <a href="https://dev.to/emanuel191">DEV.to</a>.
 <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/code.gif?raw=true" width="500" height="320" /><br/><br/><pre>
 
 <!-- blog-post-list:start -->
@@ -184,12 +188,54 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
      <br>
   </div>    
 </details>
+<br>
+<details>
+  <summary>👩‍💻Open source projects I have contributed to</summary>
+  <div>
+    <h2 align="center">👩‍💻Open source projects I have contributed to</h2>
+      <br/>
+          <a href="https://github.com/Emanuel181/DSA/tree/main">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel181&repo=DSA&theme=dracula"</img> </a>
+     <br>
+  </div>    
+</details>
+
+<br/>
+
+<details>
+  <summary>🛠️Tools</summary>
+  <div>
+    <h2 align="center">🛠️Tools</h2>
+      <br/>
+          <img align="center" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+          <img align="center" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/atom/atom-original.svg"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" />
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg"/>
+          <img align="center" alt="Atom" width="45px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg"/>
+  </div>     
+</details>
+
+<br>
+
+<details>
+  <summary>👨‍💻Languages</summary>
+  <div>
+    <h2 align="center">👨‍💻Languages</h2>
+      <br/>
+          <img align="center" alt="Visual Studio Code" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
+          <img align="center" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" />
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
+          <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg"/>
+  </div>     
+</details>
 </div>
 <br>
 <br>
-
-<b>Open source projects I have contributed to:<b><br><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emanuel181&repo=DSA&theme=dracula)](https://github.com/Emanuel181/DSA)
 
   
 <!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
