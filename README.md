@@ -195,8 +195,6 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
 <br/> <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=68&section=footer"/>
 </p>
