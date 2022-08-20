@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&background=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8BHello!+I'm+Rusu+Emanuel.+Nice+to+meet+you!%F0%9F%98%8E;I+am+a+second+year+computer+science+student+in+Timișoara%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Welcome+to+my+profile!"></img>
   <a href="https://github.com/Emanuel181">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
-  
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="500" height="auto" />
 </div>
 
 <br/>
@@ -98,7 +96,7 @@
 <br/>
 
 <details>
-  <summary>👨‍🎓 Recent projects</summary>
+  <summary>💡 Recent projects</summary>
 <div>
 <h2 align="center">👨‍🎓 Recent projects</h2>
 <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/techstack.gif?raw=true" width="360px" /> <br/><br/>
@@ -233,11 +231,16 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
           <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg"/>
   </div>     
 </details>
-</div>
-<br>
 <br>
 
-  
+<br>
+
+<br>
+<img src="https://github.com/Emanuel181/Emanuel181/blob/main/life_balance.gif" alt="side Image" width="400" height="auto" />
+
+</div>
+<br>
+
 <!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
 <br/> <br/>
 
