@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&background=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8BHello!+I'm+Rusu+Emanuel.+Nice+to+meet+you!%F0%9F%98%8E;I+am+a+second+year+computer+science+student+in+Timișoara%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Welcome+to+my+profile!"></img>
-  <a href="https://github.com/Emanuel181">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
-</div>
+<img src="https://github.com/Emanuel181/Emanuel181/blob/output/github-contribution-grid-snake.svg"/>
 
 <br/>
 
