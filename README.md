@@ -145,6 +145,8 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <div>
 <h2 align="center"><img height="45" width="45" src = "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">GitHub Skyline</h2>
     <a align="center" href="https://skyline.github.com/emanuel181/2021" target="blank">GitHub Skyline</a>
+    <br/><br/>
+    <img src="https://github.com/Emanuel181/Emanuel181/blob/main/Animation5.gif"/>
 </div>
 </details>
 
