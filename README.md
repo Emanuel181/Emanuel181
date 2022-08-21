@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&background=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8BHello!+I'm+Rusu+Emanuel.+Nice+to+meet+you!%F0%9F%98%8E;I+am+a+second+year+computer+science+student+in+Timișoara%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Welcome+to+my+profile!"></img>
   <a href="https://github.com/Emanuel181">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
 </div>
 
 <br/>
@@ -153,24 +153,20 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br/>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-
+  <summary>📊 GitHub Profile Stats</summary>
+  <div align="center">
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
-        <p align="center">
-          <a href="https://github.com/Emanuel181">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel181&langs_count=6&theme=nord&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Emanuel181">
+        <a href="https://github.com/Emanuel181">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel181&langs_count=6&theme=nord&layout=compact&hide_border=true" alt="1999AZZAR            :: Top Langs" />
+        </a>
+        <br/><br/><br/>
+        <a href="https://github.com/Emanuel181">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Emanuel181&show_icons=true&theme=nord&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel181&theme=nord&hide_border=true" />
-          </a>
-       </p>
-       <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=emanuel181&skills=C,Python,HTML,CSS,JavaScript,C%2B%2B&width=820"
-/>
+        </a>
+        <br/><br/><br/>
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=emanuel181&skills=C%2B%2B,C,Python,JavaScript,HTML,CSS&show-other-skills=true"/>
   </div>    
 </details>
 
@@ -182,7 +178,7 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
     <h2 align="center">🏆 GitHub Trophies</h2>
       <br/>
         <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=onedark"</img>
+          <img src="https://github-profile-trophy.vercel.app/?username=Emanuel181&theme=onedark&column=3"</img>
         </p>
      <br>
   </div>    
@@ -235,15 +231,8 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <br>
-
-<br>
-
 </div>
-<br>
-
-<!--![](https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge)-->
-<br/> <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=68&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=72&section=footer"/>
 </p>
