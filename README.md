@@ -242,6 +242,16 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 </details>
 
 <br>
+
+<details>
+  <summary>💬 Quote of the day</summary>
+  <div>
+    <h2 align="center">💬 Quote of the day</h2>
+      <br/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+
+  </div>     
+</details>
 </div>
 
 <p align="center">
