@@ -155,6 +155,7 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
+
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
@@ -167,10 +168,9 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel181&theme=nord&hide_border=true" />
           </a>
        </p>
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=emanuel181&skills=Python,C,HTML,CSS,C%2B%2B&show-other-skills=true"
+       <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=emanuel181&skills=C,Python,HTML,CSS,JavaScript,C%2B%2B&width=820"
 />
-<img src="https://metrics.lecoq.io/Emanuel181?template=classic&isocalendar=1&lines=1&languages=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FLos_Angeles"</img>
   </div>    
 </details>
 
@@ -237,7 +237,6 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <br>
-<img src="https://github.com/Emanuel181/Emanuel181/blob/main/life_balance.gif" alt="side Image" width="400" height="auto" />
 
 </div>
 <br>
