@@ -228,7 +228,18 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
           <img align="center" alt="Atom" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg"/>
   </div>     
 </details>
+
 <br>
+
+<details>
+  <summary>👀 Profile views</summary>
+  <div>
+    <h2 align="center">👀 Profile views</h2>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Emanuel181&style=for-the-badge"/>
+
+  </div>     
+</details>
 
 <br>
 </div>
