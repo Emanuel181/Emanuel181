@@ -109,6 +109,19 @@
 
 <br/>
 
+<details>
+  <summary>💡 Some of my projects</summary>
+<div>
+<h2 align="center">💡 Some of my projects</h2>
+<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/techstack.gif?raw=true" width="360px" /> <br/><br/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=emanuel181&max-items=2&dates=false&style=--item-bg-color:%23ff3;--item-border-radius:10px"
+/>
+</details>
+
+<br>
+
 <details> 
     <summary>✍ Blog & Writing</summary>
 <div>
