@@ -232,6 +232,17 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <details>
+  <summary>🏫Education</summary>
+    <h2 align="center">🏫Education</h2>
+      <br/>
+      <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=emanuel181&max-items=5&certificates=false&style=--item-bg-color:%23ff3;--item-border-radius:10px"
+/>
+</details>
+
+<br>
+
+<details>
   <summary>💼Work experience</summary>
     <h2 align="center">💼Work experience</h2>
       <br/>
