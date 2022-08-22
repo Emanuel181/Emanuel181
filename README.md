@@ -232,6 +232,17 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <details>
+  <summary>💼Work experience</summary>
+    <h2 align="center">💼Work experience</h2>
+      <br/>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=emanuel181&max-items=2&logos=true&style=--item-bg-color:%23ff3;--item-border-radius:10px"
+/>     
+</details>
+
+<br>
+
+<details>
   <summary>👀 Profile views</summary>
   <div>
     <h2 align="center">👀 Profile views</h2>
