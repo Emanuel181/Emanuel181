@@ -110,14 +110,13 @@
 <br/>
 
 <details>
-  <summary>💡 Some of my projects</summary>
-<div>
-<h2 align="center">💡 Some of my projects</h2>
-<img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/techstack.gif?raw=true" width="360px" /> <br/><br/>
+  <summary>🚧 Some of my projects</summary>
+  <h2 align="center">🚧 Some of my projects</h2>
+  <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/techstack.gif?raw=true" width="360px" /> <br/><br/>
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=emanuel181&max-items=2&dates=false&style=--item-bg-color:%23ff3;--item-border-radius:10px"
-/>
+  <img
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=emanuel181&max-items=8&dates=false&style=--item-bg-color:%23ff3;--item-border-radius:10px"
+  />
 </details>
 
 <br>
@@ -198,9 +197,9 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 </details>
 <br>
 <details>
-  <summary>👩‍💻Open source projects I have contributed to</summary>
+  <summary>👩‍💻 Open source projects I have contributed to</summary>
   <div>
-    <h2 align="center">👩‍💻Open source projects I have contributed to</h2>
+    <h2 align="center">👩‍💻 Open source projects I have contributed to</h2>
       <br/>
           <a href="https://github.com/Emanuel181/DSA/tree/main">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emanuel181&repo=DSA&theme=dracula"</img> </a>
@@ -211,9 +210,9 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br/>
 
 <details>
-  <summary>🛠️Tools</summary>
+  <summary>🛠️ Tools</summary>
   <div>
-    <h2 align="center">🛠️Tools</h2>
+    <h2 align="center">🛠️ Tools</h2>
       <br/>
           <img align="center" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
           <img align="center" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
@@ -229,9 +228,9 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <details>
-  <summary>👨‍💻Languages</summary>
+  <summary>👨‍💻 Languages</summary>
   <div>
-    <h2 align="center">👨‍💻Languages</h2>
+    <h2 align="center">👨‍💻 Languages</h2>
       <br/>
           <img align="center" alt="Visual Studio Code" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
           <img align="center" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/>
@@ -245,8 +244,8 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <details>
-  <summary>🏫Education</summary>
-    <h2 align="center">🏫Education</h2>
+  <summary>🏫 Education</summary>
+    <h2 align="center">🏫 Education</h2>
       <br/>
       <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=emanuel181&max-items=5&certificates=false&style=--item-bg-color:%23ff3;--item-border-radius:10px"
@@ -256,8 +255,8 @@ The latest articles on DEV Community by Rusu Emanuel \(@emanuel191\).
 <br>
 
 <details>
-  <summary>💼Work experience</summary>
-    <h2 align="center">💼Work experience</h2>
+  <summary>💼 Work experience</summary>
+    <h2 align="center">💼 Work experience</h2>
       <br/>
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=emanuel181&max-items=3&logos=true&style=--item-bg-color:%23ff3;--item-border-radius:10px"
