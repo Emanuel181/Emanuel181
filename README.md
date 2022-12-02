@@ -36,7 +36,7 @@
   <br/>
   <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/Talk%20to%20us.gif?raw=true" />
   <h2 align="center"> My current activity </h2>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Emanuel181&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emanuel's Activity Graph" src="[![Emanuel's github activity graph](https://activity-graph.herokuapp.com/graph?username=Emanuel181&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 </details>
 
   <br/>
