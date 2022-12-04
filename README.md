@@ -1,4 +1,4 @@
-![Github Activity Graph](https://github.com/settings/tokens/1038941708/graph?username=Emanuel181)
+![Github Activity Graph](https://github.com/settings/tokens/new?description=GitHub%20Readme%20Activity%20Graph/graph?username=eMANUEL181)
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&background=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8BHello!+I'm+Rusu+Emanuel.+Nice+to+meet+you!%F0%9F%98%8E;I+am+a+second+year+computer+science+student+in+Timișoara%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Welcome+to+my+profile!"></img>
