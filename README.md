@@ -1,5 +1,3 @@
-![Github Activity Graph](https://github.com/settings/tokens/new?description=GitHub%20Readme%20Activity%20Graph/graph?username=eMANUEL181)
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&background=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8BHello!+I'm+Rusu+Emanuel.+Nice+to+meet+you!%F0%9F%98%8E;I+am+a+second+year+computer+science+student+in+Timișoara%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Welcome+to+my+profile!"></img>
 <img src="https://github.com/Emanuel181/Emanuel181/blob/output/github-contribution-grid-snake.svg"/>
@@ -33,13 +31,13 @@
   
 <br/>
 
-<details>
+<!-- <details>
   <summary>📈 Activity Graph</summary>
   <br/>
   <img alt="GIF" src="https://github.com/Emanuel181/Emanuel181/blob/main/Talk%20to%20us.gif?raw=true" />
   <h2 align="center"> My current activity </h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emanuel's Activity Graph" src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
-</details>
+</details> -->
 
   <br/>
   
